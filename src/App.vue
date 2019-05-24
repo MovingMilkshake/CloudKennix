@@ -1,11 +1,11 @@
 <template>
-  <v-app>
-    <v-navigation-drawer permanent style="width:100%; height:64px; text-align: center;">
-      <v-toolbar color="red" style="width:100%; height:64px;">
+  <v-app dark> 
+    <v-navigation-drawer permanent class="elevation-6" style="width:100%; height:70px; text-align: center;">
+      <v-toolbar color="#C62828" style="width:100%; height:70px;">
         <v-list>
           <v-list-tile color="white">
             <v-list-tile-title class="title" style="font-size:35px!important; height:auto;"> 
-              Сайт про кошек без кошек
+              Сайт Про Кошек Без Кошек
             </v-list-tile-title>
           </v-list-tile>
         </v-list>
