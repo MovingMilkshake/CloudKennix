@@ -1,5 +1,5 @@
 <template>
-  <v-app dark> 
+  <v-app> 
     <v-navigation-drawer permanent class="elevation-6" style="width:100%; height:70px; text-align: center;">
       <v-toolbar color="#C62828" style="width:100%; height:70px;">
         <v-list>
